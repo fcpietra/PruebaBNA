@@ -1,0 +1,6 @@
+@PruebaBNA.Api_HostAddress = http://localhost:5012
+
+GET {{PruebaBNA.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
