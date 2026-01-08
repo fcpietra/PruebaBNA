@@ -1,4 +1,8 @@
 # PruebaBNA - Integración Bancaria con .NET 8
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![Architecture](https://img.shields.io/badge/Architecture-Clean-blue)
+![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![License](https://img.shields.io/github/license/fcpietra/PruebaBNA)
 
 Este proyecto es una solución backend desarrollada con **.NET 8** siguiendo los principios de **Clean Architecture**. Implementa un sistema de gestión de clientes y cuentas bancarias, integrándose con la API pública del **BCRA (Banco Central de la República Argentina)** para consultar la situación crediticia de los clientes.
 
